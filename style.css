@@ -1,0 +1,60 @@
+
+body{
+    background-image:url(./background_img.jpg) ;
+}
+ 
+#m {
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+#b{
+    padding: 15px;
+    font-size: larger;
+}
+.para1{
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+.subpara1{
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+
+#btn1{
+    border-radius: 5px;
+    padding: 7px;
+    color: black;
+    
+}
+
+#link{
+    text-align: center;
+    color: white;
+}
+
+#copy{
+    border-radius: 5px;
+    padding: 7px;
+    color: black;
+}
+
+.hide{
+    display: none;
+}
+
+#final{
+    text-align: center;
+    margin-top: 80px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(201, 204, 158);
+    color: white;
+}
